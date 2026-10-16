@@ -1,0 +1,18 @@
+{
+  "business": [
+    {"id":"direct","messages":["什么是渐进超负荷？"],"intent":"general_knowledge","status":"completed"},
+    {"id":"platform","messages":["平台减脂课程怎么安排？"],"intent":"knowledge_base_qa","status":"completed"},
+    {"id":"recommend","messages":["推荐减脂教练，预算300，南山区，工作日晚上，希望耐心"],"intent":"coach_recommendation","status":"completed"},
+    {"id":"mixed","messages":["减脂怎么练，顺便推荐教练，南山区，预算300"],"intent":"general_knowledge","status":"completed"},
+    {"id":"clarify","messages":["帮我推荐教练"],"intent":"coach_recommendation","status":"waiting_for_user"},
+    {"id":"empty","messages":["找减脂教练，预算100，南山区"],"intent":"coach_recommendation","status":"waiting_for_user","expected_requirements":{"budget_max":100,"district":"南山区"}},
+    {"id":"update","messages":["推荐减脂教练，预算300，南山区，工作日晚上","预算改成400，其他条件不变"],"intent":"requirement_update","status":"completed","expected_requirements":{"budget_max":400,"district":"南山区","goal":"减脂"}},
+    {"id":"compare","messages":["推荐减脂教练，预算300，南山区，工作日晚上","比较前两位教练"],"intent":"coach_comparison","status":"completed"}
+  ],
+  "retrieval": [
+    {"id":"platform-course","query":"平台减脂课程怎么安排","rewrite":"减脂课程 四周 每周两次私教安排","coach_ids":[""],"relevant_documents":["platform-fat-loss-course"]},
+    {"id":"coach-knee","query":"林知夏膝盖不适训练经验","rewrite":"膝盖不适 低冲击 训练调整","coach_ids":["coach-01"],"relevant_documents":["coach-01-case"]},
+    {"id":"coach-teaching","query":"林知夏耐心新手动作讲解","rewrite":"新手耐心教学 示范 动作讲解","coach_ids":["coach-01"],"relevant_documents":["coach-01-teaching"]},
+    {"id":"overload","query":"渐进超负荷怎么逐步增加训练刺激","rewrite":"渐进超负荷 负重 次数 组数 训练恢复","coach_ids":[""],"relevant_documents":["platform-overload"]}
+  ]
+}

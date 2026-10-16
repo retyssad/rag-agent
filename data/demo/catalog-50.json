@@ -1,0 +1,3110 @@
+{
+  "coaches": [
+    {
+      "id": "coach-01",
+      "name": "白慕言",
+      "price": 280,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂私教课",
+          "duration_minutes": 60,
+          "price": 280
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "白慕言 是一位用于演示选择流程的虚构教练，主要面向减脂方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02",
+      "name": "崔子恒",
+      "price": 270,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "增肌",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌私教课",
+          "duration_minutes": 60,
+          "price": 270
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 11,
+          "end": 14
+        }
+      ],
+      "bio": "崔子恒 是一位用于演示选择流程的虚构教练，主要面向增肌方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03",
+      "name": "邓清越",
+      "price": 430,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "力量",
+        "办公室人群"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "力量私教课",
+          "duration_minutes": 60,
+          "price": 430
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            4
+          ],
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "bio": "邓清越 是一位用于演示选择流程的虚构教练，主要面向力量方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04",
+      "name": "范书宁",
+      "price": 450,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "体能",
+        "体能测试与评估"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体能私教课",
+          "duration_minutes": 60,
+          "price": 450
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "范书宁 是一位用于演示选择流程的虚构教练，主要面向体能方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-05",
+      "name": "高允泽",
+      "price": 150,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体态",
+        "动作纠正"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体态私教课",
+          "duration_minutes": 60,
+          "price": 150
+        },
+        {
+          "name": "体态进阶课",
+          "duration_minutes": 90,
+          "price": 180
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            2,
+            3
+          ],
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "bio": "高允泽 是一位用于演示选择流程的虚构教练，主要面向体态方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06",
+      "name": "何蔓仪",
+      "price": 170,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "塑形",
+        "女性专属"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "塑形私教课",
+          "duration_minutes": 60,
+          "price": 170
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 19,
+          "end": 22
+        }
+      ],
+      "bio": "何蔓仪 是一位用于演示选择流程的虚构教练，主要面向塑形方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-07",
+      "name": "侯继文",
+      "price": 160,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "产后恢复",
+        "损伤后体能恢复"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "产后恢复私教课",
+          "duration_minutes": 60,
+          "price": 160
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            3,
+            5
+          ],
+          "start": 17,
+          "end": 21
+        }
+      ],
+      "bio": "侯继文 是一位用于演示选择流程的虚构教练，主要面向产后恢复方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08",
+      "name": "胡以宁",
+      "price": 540,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "青少年体能",
+        "进阶提升"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "青少年体能私教课",
+          "duration_minutes": 60,
+          "price": 540
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 18
+        }
+      ],
+      "bio": "胡以宁 是一位用于演示选择流程的虚构教练，主要面向青少年体能方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09",
+      "name": "黄立诚",
+      "price": 640,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "中老年体适能",
+        "周期化训练"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "中老年体适能私教课",
+          "duration_minutes": 60,
+          "price": 640
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 8,
+          "end": 20
+        }
+      ],
+      "bio": "黄立诚 是一位用于演示选择流程的虚构教练，主要面向中老年体适能方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10",
+      "name": "纪悠然",
+      "price": 480,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "跑步",
+        "久坐改善"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "跑步私教课",
+          "duration_minutes": 60,
+          "price": 480
+        },
+        {
+          "name": "跑步进阶课",
+          "duration_minutes": 90,
+          "price": 510
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            5,
+            6
+          ],
+          "start": 13,
+          "end": 19
+        }
+      ],
+      "bio": "纪悠然 是一位用于演示选择流程的虚构教练，主要面向跑步方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11",
+      "name": "贾斯远",
+      "price": 420,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "普拉提",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "普拉提私教课",
+          "duration_minutes": 60,
+          "price": 420
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "bio": "贾斯远 是一位用于演示选择流程的虚构教练，主要面向普拉提方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12",
+      "name": "柯霁月",
+      "price": 400,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "搏击",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "搏击私教课",
+          "duration_minutes": 60,
+          "price": 400
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5
+          ],
+          "start": 9,
+          "end": 15
+        }
+      ],
+      "bio": "柯霁月 是一位用于演示选择流程的虚构教练，主要面向搏击方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-13",
+      "name": "雷亭舟",
+      "price": 510,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "瑜伽",
+        "办公室人群"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "瑜伽私教课",
+          "duration_minutes": 60,
+          "price": 510
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            3,
+            5
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "雷亭舟 是一位用于演示选择流程的虚构教练，主要面向瑜伽方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14",
+      "name": "黎昀希",
+      "price": 580,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "游泳体能",
+        "体能测试与评估"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "游泳体能私教课",
+          "duration_minutes": 60,
+          "price": 580
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            4
+          ],
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "bio": "黎昀希 是一位用于演示选择流程的虚构教练，主要面向游泳体能方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15",
+      "name": "李维朗",
+      "price": 290,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "柔韧与体态调整",
+        "动作纠正"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "柔韧与体态调整私教课",
+          "duration_minutes": 60,
+          "price": 290
+        },
+        {
+          "name": "柔韧与体态调整进阶课",
+          "duration_minutes": 90,
+          "price": 320
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "李维朗 是一位用于演示选择流程的虚构教练，主要面向柔韧与体态调整方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-16",
+      "name": "梁小满",
+      "price": 460,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "运动表现提升",
+        "女性专属"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "运动表现提升私教课",
+          "duration_minutes": 60,
+          "price": 460
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            6
+          ],
+          "start": 10,
+          "end": 16
+        }
+      ],
+      "bio": "梁小满 是一位用于演示选择流程的虚构教练，主要面向运动表现提升方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-17",
+      "name": "林肃之",
+      "price": 180,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "损伤后体能恢复"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂私教课",
+          "duration_minutes": 60,
+          "price": 180
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "林肃之 是一位用于演示选择流程的虚构教练，主要面向减脂方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-18",
+      "name": "刘星遥",
+      "price": 530,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "增肌",
+        "进阶提升"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌私教课",
+          "duration_minutes": 60,
+          "price": 530
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 11,
+          "end": 14
+        }
+      ],
+      "bio": "刘星遥 是一位用于演示选择流程的虚构教练，主要面向增肌方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-19",
+      "name": "卢知微",
+      "price": 260,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "力量",
+        "周期化训练"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "力量私教课",
+          "duration_minutes": 60,
+          "price": 260
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            4
+          ],
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "bio": "卢知微 是一位用于演示选择流程的虚构教练，主要面向力量方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-20",
+      "name": "罗启年",
+      "price": 490,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "体能",
+        "久坐改善"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体能私教课",
+          "duration_minutes": 60,
+          "price": 490
+        },
+        {
+          "name": "体能进阶课",
+          "duration_minutes": 90,
+          "price": 520
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "罗启年 是一位用于演示选择流程的虚构教练，主要面向体能方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-21",
+      "name": "马予棠",
+      "price": 360,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体态",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体态私教课",
+          "duration_minutes": 60,
+          "price": 360
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            2,
+            3
+          ],
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "bio": "马予棠 是一位用于演示选择流程的虚构教练，主要面向体态方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-22",
+      "name": "孟修竹",
+      "price": 230,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "塑形",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "塑形私教课",
+          "duration_minutes": 60,
+          "price": 230
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 19,
+          "end": 22
+        }
+      ],
+      "bio": "孟修竹 是一位用于演示选择流程的虚构教练，主要面向塑形方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-23",
+      "name": "倪昭华",
+      "price": 600,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "产后恢复",
+        "办公室人群"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "产后恢复私教课",
+          "duration_minutes": 60,
+          "price": 600
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            3,
+            5
+          ],
+          "start": 17,
+          "end": 21
+        }
+      ],
+      "bio": "倪昭华 是一位用于演示选择流程的虚构教练，主要面向产后恢复方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-24",
+      "name": "潘叙白",
+      "price": 470,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "青少年体能",
+        "体能测试与评估"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "青少年体能私教课",
+          "duration_minutes": 60,
+          "price": 470
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 18
+        }
+      ],
+      "bio": "潘叙白 是一位用于演示选择流程的虚构教练，主要面向青少年体能方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-25",
+      "name": "彭之澜",
+      "price": 620,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "中老年体适能",
+        "动作纠正"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "中老年体适能私教课",
+          "duration_minutes": 60,
+          "price": 620
+        },
+        {
+          "name": "中老年体适能进阶课",
+          "duration_minutes": 90,
+          "price": 650
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 8,
+          "end": 20
+        }
+      ],
+      "bio": "彭之澜 是一位用于演示选择流程的虚构教练，主要面向中老年体适能方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-26",
+      "name": "齐璟然",
+      "price": 220,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "跑步",
+        "女性专属"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "跑步私教课",
+          "duration_minutes": 60,
+          "price": 220
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            5,
+            6
+          ],
+          "start": 13,
+          "end": 19
+        }
+      ],
+      "bio": "齐璟然 是一位用于演示选择流程的虚构教练，主要面向跑步方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-27",
+      "name": "秦望舒",
+      "price": 440,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "普拉提",
+        "损伤后体能恢复"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "普拉提私教课",
+          "duration_minutes": 60,
+          "price": 440
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "bio": "秦望舒 是一位用于演示选择流程的虚构教练，主要面向普拉提方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-28",
+      "name": "邱彦舟",
+      "price": 340,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "搏击",
+        "进阶提升"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "搏击私教课",
+          "duration_minutes": 60,
+          "price": 340
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5
+          ],
+          "start": 9,
+          "end": 15
+        }
+      ],
+      "bio": "邱彦舟 是一位用于演示选择流程的虚构教练，主要面向搏击方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-29",
+      "name": "曲依然",
+      "price": 570,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "瑜伽",
+        "周期化训练"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "瑜伽私教课",
+          "duration_minutes": 60,
+          "price": 570
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            3,
+            5
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "曲依然 是一位用于演示选择流程的虚构教练，主要面向瑜伽方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-30",
+      "name": "任向晚",
+      "price": 200,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "游泳体能",
+        "久坐改善"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "游泳体能私教课",
+          "duration_minutes": 60,
+          "price": 200
+        },
+        {
+          "name": "游泳体能进阶课",
+          "duration_minutes": 90,
+          "price": 230
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            4
+          ],
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "bio": "任向晚 是一位用于演示选择流程的虚构教练，主要面向游泳体能方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-31",
+      "name": "商知白",
+      "price": 610,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "柔韧与体态调整",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "柔韧与体态调整私教课",
+          "duration_minutes": 60,
+          "price": 610
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "商知白 是一位用于演示选择流程的虚构教练，主要面向柔韧与体态调整方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-32",
+      "name": "邵禾风",
+      "price": 590,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "运动表现提升",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "运动表现提升私教课",
+          "duration_minutes": 60,
+          "price": 590
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            6
+          ],
+          "start": 10,
+          "end": 16
+        }
+      ],
+      "bio": "邵禾风 是一位用于演示选择流程的虚构教练，主要面向运动表现提升方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-33",
+      "name": "申屠衡",
+      "price": 350,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "办公室人群"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂私教课",
+          "duration_minutes": 60,
+          "price": 350
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "申屠衡 是一位用于演示选择流程的虚构教练，主要面向减脂方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-34",
+      "name": "石萦之",
+      "price": 320,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "增肌",
+        "体能测试与评估"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌私教课",
+          "duration_minutes": 60,
+          "price": 320
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 11,
+          "end": 14
+        }
+      ],
+      "bio": "石萦之 是一位用于演示选择流程的虚构教练，主要面向增肌方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-35",
+      "name": "舒墨言",
+      "price": 560,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "力量",
+        "动作纠正"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "力量私教课",
+          "duration_minutes": 60,
+          "price": 560
+        },
+        {
+          "name": "力量进阶课",
+          "duration_minutes": 90,
+          "price": 590
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            4
+          ],
+          "start": 7,
+          "end": 10
+        }
+      ],
+      "bio": "舒墨言 是一位用于演示选择流程的虚构教练，主要面向力量方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-36",
+      "name": "司徒南",
+      "price": 650,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "体能",
+        "女性专属"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体能私教课",
+          "duration_minutes": 60,
+          "price": 650
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "司徒南 是一位用于演示选择流程的虚构教练，主要面向体能方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-37",
+      "name": "孙未眠",
+      "price": 630,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体态",
+        "损伤后体能恢复"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体态私教课",
+          "duration_minutes": 60,
+          "price": 630
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            2,
+            3
+          ],
+          "start": 14,
+          "end": 18
+        }
+      ],
+      "bio": "孙未眠 是一位用于演示选择流程的虚构教练，主要面向体态方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-38",
+      "name": "谭砚舟",
+      "price": 330,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "塑形",
+        "进阶提升"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "塑形私教课",
+          "duration_minutes": 60,
+          "price": 330
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 19,
+          "end": 22
+        }
+      ],
+      "bio": "谭砚舟 是一位用于演示选择流程的虚构教练，主要面向塑形方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-39",
+      "name": "汤予初",
+      "price": 250,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "产后恢复",
+        "周期化训练"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "产后恢复私教课",
+          "duration_minutes": 60,
+          "price": 250
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            3,
+            5
+          ],
+          "start": 17,
+          "end": 21
+        }
+      ],
+      "bio": "汤予初 是一位用于演示选择流程的虚构教练，主要面向产后恢复方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-40",
+      "name": "陶立群",
+      "price": 240,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "青少年体能",
+        "久坐改善"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "青少年体能私教课",
+          "duration_minutes": 60,
+          "price": 240
+        },
+        {
+          "name": "青少年体能进阶课",
+          "duration_minutes": 90,
+          "price": 270
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 18
+        }
+      ],
+      "bio": "陶立群 是一位用于演示选择流程的虚构教练，主要面向青少年体能方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-41",
+      "name": "万清和",
+      "price": 370,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "中老年体适能",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "中老年体适能私教课",
+          "duration_minutes": 60,
+          "price": 370
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 8,
+          "end": 20
+        }
+      ],
+      "bio": "万清和 是一位用于演示选择流程的虚构教练，主要面向中老年体适能方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-42",
+      "name": "汪听雪",
+      "price": 520,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "跑步",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "跑步私教课",
+          "duration_minutes": 60,
+          "price": 520
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            5,
+            6
+          ],
+          "start": 13,
+          "end": 19
+        }
+      ],
+      "bio": "汪听雪 是一位用于演示选择流程的虚构教练，主要面向跑步方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-43",
+      "name": "王砚秋",
+      "price": 550,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "普拉提",
+        "办公室人群"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "普拉提私教课",
+          "duration_minutes": 60,
+          "price": 550
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 6,
+          "end": 9
+        }
+      ],
+      "bio": "王砚秋 是一位用于演示选择流程的虚构教练，主要面向普拉提方向，在宝安区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-44",
+      "name": "韦念初",
+      "price": 300,
+      "districts": [
+        "光明区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "搏击",
+        "体能测试与评估"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "搏击私教课",
+          "duration_minutes": 60,
+          "price": 300
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5
+          ],
+          "start": 9,
+          "end": 15
+        }
+      ],
+      "bio": "韦念初 是一位用于演示选择流程的虚构教练，主要面向搏击方向，在光明区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-45",
+      "name": "文景衍",
+      "price": 390,
+      "districts": [
+        "龙岗区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "瑜伽",
+        "动作纠正"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "瑜伽私教课",
+          "duration_minutes": 60,
+          "price": 390
+        },
+        {
+          "name": "瑜伽进阶课",
+          "duration_minutes": 90,
+          "price": 420
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            1,
+            3,
+            5
+          ],
+          "start": 18,
+          "end": 21
+        }
+      ],
+      "bio": "文景衍 是一位用于演示选择流程的虚构教练，主要面向瑜伽方向，在龙岗区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-46",
+      "name": "吴栖梧",
+      "price": 410,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "游泳体能",
+        "女性专属"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "游泳体能私教课",
+          "duration_minutes": 60,
+          "price": 410
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            2,
+            4
+          ],
+          "start": 20,
+          "end": 22
+        }
+      ],
+      "bio": "吴栖梧 是一位用于演示选择流程的虚构教练，主要面向游泳体能方向，在福田区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-47",
+      "name": "伍清泽",
+      "price": 210,
+      "districts": [
+        "盐田区"
+      ],
+      "delivery_modes": [
+        "线上"
+      ],
+      "specialties": [
+        "柔韧与体态调整",
+        "损伤后体能恢复"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "柔韧与体态调整私教课",
+          "duration_minutes": 60,
+          "price": 210
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "伍清泽 是一位用于演示选择流程的虚构教练，主要面向柔韧与体态调整方向，在盐田区提供线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-48",
+      "name": "席临川",
+      "price": 380,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "运动表现提升",
+        "进阶提升"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "运动表现提升私教课",
+          "duration_minutes": 60,
+          "price": 380
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            6
+          ],
+          "start": 10,
+          "end": 16
+        }
+      ],
+      "bio": "席临川 是一位用于演示选择流程的虚构教练，主要面向运动表现提升方向，在罗湖区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-49",
+      "name": "夏木西",
+      "price": 310,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "周期化训练"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂私教课",
+          "duration_minutes": 60,
+          "price": 310
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "夏木西 是一位用于演示选择流程的虚构教练，主要面向减脂方向，在南山区提供线下授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-50",
+      "name": "向知遥",
+      "price": 190,
+      "districts": [
+        "龙华区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "增肌",
+        "久坐改善"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌私教课",
+          "duration_minutes": 60,
+          "price": 190
+        },
+        {
+          "name": "增肌进阶课",
+          "duration_minutes": 90,
+          "price": 220
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 11,
+          "end": 14
+        }
+      ],
+      "bio": "向知遥 是一位用于演示选择流程的虚构教练，主要面向增肌方向，在龙华区提供线下、线上授课。资料为虚构样例，不代表真实资质。",
+      "is_demo": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "coach-01-teaching",
+      "coach_id": "coach-01",
+      "title": "白慕言教学资料（虚构）",
+      "source": "demo://coaches/coach-01/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n白慕言面向减脂目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为工作日 18:00–22:00。教学上重视新手入门，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-01-case",
+      "coach_id": "coach-01",
+      "title": "白慕言训练案例（虚构）",
+      "source": "demo://coaches/coach-01/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再由白慕言根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02-teaching",
+      "coach_id": "coach-02",
+      "title": "崔子恒教学资料（虚构）",
+      "source": "demo://coaches/coach-02/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n崔子恒面向增肌目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为工作日 11:00–14:00。教学上重视力量基础，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02-case",
+      "coach_id": "coach-02",
+      "title": "崔子恒训练案例（虚构）",
+      "source": "demo://coaches/coach-02/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再由崔子恒根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03-teaching",
+      "coach_id": "coach-03",
+      "title": "邓清越教学资料（虚构）",
+      "source": "demo://coaches/coach-03/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n邓清越面向力量目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为周一、周二、周五 7:00–10:00。教学上重视办公室人群，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03-case",
+      "coach_id": "coach-03",
+      "title": "邓清越训练案例（虚构）",
+      "source": "demo://coaches/coach-03/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的力量教学案例记录：学员先学习基础动作，再由邓清越根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04-teaching",
+      "coach_id": "coach-04",
+      "title": "范书宁教学资料（虚构）",
+      "source": "demo://coaches/coach-04/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n范书宁面向体能目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 18:00–21:00。教学上重视体能测试与评估，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04-case",
+      "coach_id": "coach-04",
+      "title": "范书宁训练案例（虚构）",
+      "source": "demo://coaches/coach-04/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的体能教学案例记录：学员先学习基础动作，再由范书宁根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，范书宁陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-05-teaching",
+      "coach_id": "coach-05",
+      "title": "高允泽教学资料（虚构）",
+      "source": "demo://coaches/coach-05/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n高允泽面向体态目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周三、周四 14:00–18:00。教学上重视动作纠正，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06-teaching",
+      "coach_id": "coach-06",
+      "title": "何蔓仪教学资料（虚构）",
+      "source": "demo://coaches/coach-06/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n何蔓仪面向塑形目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周一、周三、周五 19:00–22:00。教学上重视女性专属，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06-case",
+      "coach_id": "coach-06",
+      "title": "何蔓仪训练案例（虚构）",
+      "source": "demo://coaches/coach-06/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的塑形教学案例记录：学员先学习基础动作，再由何蔓仪根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08-teaching",
+      "coach_id": "coach-08",
+      "title": "胡以宁教学资料（虚构）",
+      "source": "demo://coaches/coach-08/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n胡以宁面向青少年体能目标，在罗湖区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 9:00–18:00。教学上重视进阶提升，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08-case",
+      "coach_id": "coach-08",
+      "title": "胡以宁训练案例（虚构）",
+      "source": "demo://coaches/coach-08/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的青少年体能教学案例记录：学员先学习基础动作，再由胡以宁根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，胡以宁陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09-teaching",
+      "coach_id": "coach-09",
+      "title": "黄立诚教学资料（虚构）",
+      "source": "demo://coaches/coach-09/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n黄立诚面向中老年体适能目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为每天 8:00–20:00。教学上重视周期化训练，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09-case",
+      "coach_id": "coach-09",
+      "title": "黄立诚训练案例（虚构）",
+      "source": "demo://coaches/coach-09/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的中老年体适能教学案例记录：学员先学习基础动作，再由黄立诚根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10-teaching",
+      "coach_id": "coach-10",
+      "title": "纪悠然教学资料（虚构）",
+      "source": "demo://coaches/coach-10/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n纪悠然面向跑步目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周六、周日 13:00–19:00。教学上重视久坐改善，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10-case",
+      "coach_id": "coach-10",
+      "title": "纪悠然训练案例（虚构）",
+      "source": "demo://coaches/coach-10/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的跑步教学案例记录：学员先学习基础动作，再由纪悠然根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11-teaching",
+      "coach_id": "coach-11",
+      "title": "贾斯远教学资料（虚构）",
+      "source": "demo://coaches/coach-11/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n贾斯远面向普拉提目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为工作日 6:00–9:00。教学上重视新手入门，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11-case",
+      "coach_id": "coach-11",
+      "title": "贾斯远训练案例（虚构）",
+      "source": "demo://coaches/coach-11/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的普拉提教学案例记录：学员先学习基础动作，再由贾斯远根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12-teaching",
+      "coach_id": "coach-12",
+      "title": "柯霁月教学资料（虚构）",
+      "source": "demo://coaches/coach-12/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n柯霁月面向搏击目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周六 9:00–15:00。教学上重视力量基础，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12-case",
+      "coach_id": "coach-12",
+      "title": "柯霁月训练案例（虚构）",
+      "source": "demo://coaches/coach-12/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的搏击教学案例记录：学员先学习基础动作，再由柯霁月根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，柯霁月陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-13-teaching",
+      "coach_id": "coach-13",
+      "title": "雷亭舟教学资料（虚构）",
+      "source": "demo://coaches/coach-13/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n雷亭舟面向瑜伽目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周四、周六 18:00–21:00。教学上重视办公室人群，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14-teaching",
+      "coach_id": "coach-14",
+      "title": "黎昀希教学资料（虚构）",
+      "source": "demo://coaches/coach-14/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n黎昀希面向游泳体能目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周五 20:00–22:00。教学上重视体能测试与评估，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14-case",
+      "coach_id": "coach-14",
+      "title": "黎昀希训练案例（虚构）",
+      "source": "demo://coaches/coach-14/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的游泳体能教学案例记录：学员先学习基础动作，再由黎昀希根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15-teaching",
+      "coach_id": "coach-15",
+      "title": "李维朗教学资料（虚构）",
+      "source": "demo://coaches/coach-15/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n李维朗面向柔韧与体态调整目标，在盐田区以线上方式提供循序渐进的基础训练，常安排时间为工作日 9:00–17:00。教学上重视动作纠正，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15-case",
+      "coach_id": "coach-15",
+      "title": "李维朗训练案例（虚构）",
+      "source": "demo://coaches/coach-15/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的柔韧与体态调整教学案例记录：学员先学习基础动作，再由李维朗根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-16-teaching",
+      "coach_id": "coach-16",
+      "title": "梁小满教学资料（虚构）",
+      "source": "demo://coaches/coach-16/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n梁小满面向运动表现提升目标，在罗湖区以线下、线上方式提供循序渐进的基础训练，常安排时间为周日 10:00–16:00。教学上重视女性专属，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-16-case",
+      "coach_id": "coach-16",
+      "title": "梁小满训练案例（虚构）",
+      "source": "demo://coaches/coach-16/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的运动表现提升教学案例记录：学员先学习基础动作，再由梁小满根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，梁小满陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-17-teaching",
+      "coach_id": "coach-17",
+      "title": "林肃之教学资料（虚构）",
+      "source": "demo://coaches/coach-17/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n林肃之面向减脂目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为工作日 18:00–22:00。教学上重视损伤后体能恢复，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-17-case",
+      "coach_id": "coach-17",
+      "title": "林肃之训练案例（虚构）",
+      "source": "demo://coaches/coach-17/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再由林肃之根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-18-teaching",
+      "coach_id": "coach-18",
+      "title": "刘星遥教学资料（虚构）",
+      "source": "demo://coaches/coach-18/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n刘星遥面向增肌目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为工作日 11:00–14:00。教学上重视进阶提升，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-18-case",
+      "coach_id": "coach-18",
+      "title": "刘星遥训练案例（虚构）",
+      "source": "demo://coaches/coach-18/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再由刘星遥根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-19-teaching",
+      "coach_id": "coach-19",
+      "title": "卢知微教学资料（虚构）",
+      "source": "demo://coaches/coach-19/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n卢知微面向力量目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为周一、周二、周五 7:00–10:00。教学上重视周期化训练，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-19-case",
+      "coach_id": "coach-19",
+      "title": "卢知微训练案例（虚构）",
+      "source": "demo://coaches/coach-19/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的力量教学案例记录：学员先学习基础动作，再由卢知微根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-20-teaching",
+      "coach_id": "coach-20",
+      "title": "罗启年教学资料（虚构）",
+      "source": "demo://coaches/coach-20/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n罗启年面向体能目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 18:00–21:00。教学上重视久坐改善，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-20-case",
+      "coach_id": "coach-20",
+      "title": "罗启年训练案例（虚构）",
+      "source": "demo://coaches/coach-20/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的体能教学案例记录：学员先学习基础动作，再由罗启年根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，罗启年陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-21-teaching",
+      "coach_id": "coach-21",
+      "title": "马予棠教学资料（虚构）",
+      "source": "demo://coaches/coach-21/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n马予棠面向体态目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周三、周四 14:00–18:00。教学上重视新手入门，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-21-case",
+      "coach_id": "coach-21",
+      "title": "马予棠训练案例（虚构）",
+      "source": "demo://coaches/coach-21/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的体态教学案例记录：学员先学习基础动作，再由马予棠根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-22-teaching",
+      "coach_id": "coach-22",
+      "title": "孟修竹教学资料（虚构）",
+      "source": "demo://coaches/coach-22/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n孟修竹面向塑形目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周一、周三、周五 19:00–22:00。教学上重视力量基础，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-22-case",
+      "coach_id": "coach-22",
+      "title": "孟修竹训练案例（虚构）",
+      "source": "demo://coaches/coach-22/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的塑形教学案例记录：学员先学习基础动作，再由孟修竹根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-24-teaching",
+      "coach_id": "coach-24",
+      "title": "潘叙白教学资料（虚构）",
+      "source": "demo://coaches/coach-24/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n潘叙白面向青少年体能目标，在罗湖区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 9:00–18:00。教学上重视体能测试与评估，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-24-case",
+      "coach_id": "coach-24",
+      "title": "潘叙白训练案例（虚构）",
+      "source": "demo://coaches/coach-24/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的青少年体能教学案例记录：学员先学习基础动作，再由潘叙白根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，潘叙白陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-25-teaching",
+      "coach_id": "coach-25",
+      "title": "彭之澜教学资料（虚构）",
+      "source": "demo://coaches/coach-25/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n彭之澜面向中老年体适能目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为每天 8:00–20:00。教学上重视动作纠正，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-25-case",
+      "coach_id": "coach-25",
+      "title": "彭之澜训练案例（虚构）",
+      "source": "demo://coaches/coach-25/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的中老年体适能教学案例记录：学员先学习基础动作，再由彭之澜根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-26-teaching",
+      "coach_id": "coach-26",
+      "title": "齐璟然教学资料（虚构）",
+      "source": "demo://coaches/coach-26/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n齐璟然面向跑步目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周六、周日 13:00–19:00。教学上重视女性专属，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-26-case",
+      "coach_id": "coach-26",
+      "title": "齐璟然训练案例（虚构）",
+      "source": "demo://coaches/coach-26/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的跑步教学案例记录：学员先学习基础动作，再由齐璟然根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-27-teaching",
+      "coach_id": "coach-27",
+      "title": "秦望舒教学资料（虚构）",
+      "source": "demo://coaches/coach-27/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n秦望舒面向普拉提目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为工作日 6:00–9:00。教学上重视损伤后体能恢复，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-27-case",
+      "coach_id": "coach-27",
+      "title": "秦望舒训练案例（虚构）",
+      "source": "demo://coaches/coach-27/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的普拉提教学案例记录：学员先学习基础动作，再由秦望舒根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-28-teaching",
+      "coach_id": "coach-28",
+      "title": "邱彦舟教学资料（虚构）",
+      "source": "demo://coaches/coach-28/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n邱彦舟面向搏击目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周六 9:00–15:00。教学上重视进阶提升，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-28-case",
+      "coach_id": "coach-28",
+      "title": "邱彦舟训练案例（虚构）",
+      "source": "demo://coaches/coach-28/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的搏击教学案例记录：学员先学习基础动作，再由邱彦舟根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，邱彦舟陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-29-teaching",
+      "coach_id": "coach-29",
+      "title": "曲依然教学资料（虚构）",
+      "source": "demo://coaches/coach-29/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n曲依然面向瑜伽目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周四、周六 18:00–21:00。教学上重视周期化训练，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-30-teaching",
+      "coach_id": "coach-30",
+      "title": "任向晚教学资料（虚构）",
+      "source": "demo://coaches/coach-30/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n任向晚面向游泳体能目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周五 20:00–22:00。教学上重视久坐改善，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-30-case",
+      "coach_id": "coach-30",
+      "title": "任向晚训练案例（虚构）",
+      "source": "demo://coaches/coach-30/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的游泳体能教学案例记录：学员先学习基础动作，再由任向晚根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-31-teaching",
+      "coach_id": "coach-31",
+      "title": "商知白教学资料（虚构）",
+      "source": "demo://coaches/coach-31/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n商知白面向柔韧与体态调整目标，在盐田区以线上方式提供循序渐进的基础训练，常安排时间为工作日 9:00–17:00。教学上重视新手入门，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-31-case",
+      "coach_id": "coach-31",
+      "title": "商知白训练案例（虚构）",
+      "source": "demo://coaches/coach-31/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的柔韧与体态调整教学案例记录：学员先学习基础动作，再由商知白根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-32-teaching",
+      "coach_id": "coach-32",
+      "title": "邵禾风教学资料（虚构）",
+      "source": "demo://coaches/coach-32/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n邵禾风面向运动表现提升目标，在罗湖区以线下、线上方式提供循序渐进的基础训练，常安排时间为周日 10:00–16:00。教学上重视力量基础，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-32-case",
+      "coach_id": "coach-32",
+      "title": "邵禾风训练案例（虚构）",
+      "source": "demo://coaches/coach-32/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的运动表现提升教学案例记录：学员先学习基础动作，再由邵禾风根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，邵禾风陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-33-teaching",
+      "coach_id": "coach-33",
+      "title": "申屠衡教学资料（虚构）",
+      "source": "demo://coaches/coach-33/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n申屠衡面向减脂目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为工作日 18:00–22:00。教学上重视办公室人群，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-33-case",
+      "coach_id": "coach-33",
+      "title": "申屠衡训练案例（虚构）",
+      "source": "demo://coaches/coach-33/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再由申屠衡根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-34-teaching",
+      "coach_id": "coach-34",
+      "title": "石萦之教学资料（虚构）",
+      "source": "demo://coaches/coach-34/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n石萦之面向增肌目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为工作日 11:00–14:00。教学上重视体能测试与评估，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-34-case",
+      "coach_id": "coach-34",
+      "title": "石萦之训练案例（虚构）",
+      "source": "demo://coaches/coach-34/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再由石萦之根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-35-teaching",
+      "coach_id": "coach-35",
+      "title": "舒墨言教学资料（虚构）",
+      "source": "demo://coaches/coach-35/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n舒墨言面向力量目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为周一、周二、周五 7:00–10:00。教学上重视动作纠正，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-35-case",
+      "coach_id": "coach-35",
+      "title": "舒墨言训练案例（虚构）",
+      "source": "demo://coaches/coach-35/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的力量教学案例记录：学员先学习基础动作，再由舒墨言根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-36-teaching",
+      "coach_id": "coach-36",
+      "title": "司徒南教学资料（虚构）",
+      "source": "demo://coaches/coach-36/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n司徒南面向体能目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 18:00–21:00。教学上重视女性专属，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-36-case",
+      "coach_id": "coach-36",
+      "title": "司徒南训练案例（虚构）",
+      "source": "demo://coaches/coach-36/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的体能教学案例记录：学员先学习基础动作，再由司徒南根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，司徒南陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-37-teaching",
+      "coach_id": "coach-37",
+      "title": "孙未眠教学资料（虚构）",
+      "source": "demo://coaches/coach-37/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n孙未眠面向体态目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周三、周四 14:00–18:00。教学上重视损伤后体能恢复，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-38-teaching",
+      "coach_id": "coach-38",
+      "title": "谭砚舟教学资料（虚构）",
+      "source": "demo://coaches/coach-38/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n谭砚舟面向塑形目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周一、周三、周五 19:00–22:00。教学上重视进阶提升，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-38-case",
+      "coach_id": "coach-38",
+      "title": "谭砚舟训练案例（虚构）",
+      "source": "demo://coaches/coach-38/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的塑形教学案例记录：学员先学习基础动作，再由谭砚舟根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-39-teaching",
+      "coach_id": "coach-39",
+      "title": "汤予初教学资料（虚构）",
+      "source": "demo://coaches/coach-39/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n汤予初面向产后恢复目标，在盐田区以线上方式提供循序渐进的基础训练，常安排时间为周一、周四、周六 17:00–21:00。教学上重视周期化训练，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-39-case",
+      "coach_id": "coach-39",
+      "title": "汤予初训练案例（虚构）",
+      "source": "demo://coaches/coach-39/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的产后恢复教学案例记录：学员先学习基础动作，再由汤予初根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-40-teaching",
+      "coach_id": "coach-40",
+      "title": "陶立群教学资料（虚构）",
+      "source": "demo://coaches/coach-40/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n陶立群面向青少年体能目标，在罗湖区以线下、线上方式提供循序渐进的基础训练，常安排时间为周末 9:00–18:00。教学上重视久坐改善，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-40-case",
+      "coach_id": "coach-40",
+      "title": "陶立群训练案例（虚构）",
+      "source": "demo://coaches/coach-40/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的青少年体能教学案例记录：学员先学习基础动作，再由陶立群根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，陶立群陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-42-teaching",
+      "coach_id": "coach-42",
+      "title": "汪听雪教学资料（虚构）",
+      "source": "demo://coaches/coach-42/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n汪听雪面向跑步目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周六、周日 13:00–19:00。教学上重视力量基础，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-42-case",
+      "coach_id": "coach-42",
+      "title": "汪听雪训练案例（虚构）",
+      "source": "demo://coaches/coach-42/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的跑步教学案例记录：学员先学习基础动作，再由汪听雪根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-43-teaching",
+      "coach_id": "coach-43",
+      "title": "王砚秋教学资料（虚构）",
+      "source": "demo://coaches/coach-43/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n王砚秋面向普拉提目标，在宝安区以线上方式提供循序渐进的基础训练，常安排时间为工作日 6:00–9:00。教学上重视办公室人群，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-43-case",
+      "coach_id": "coach-43",
+      "title": "王砚秋训练案例（虚构）",
+      "source": "demo://coaches/coach-43/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的普拉提教学案例记录：学员先学习基础动作，再由王砚秋根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-44-teaching",
+      "coach_id": "coach-44",
+      "title": "韦念初教学资料（虚构）",
+      "source": "demo://coaches/coach-44/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n韦念初面向搏击目标，在光明区以线下、线上方式提供循序渐进的基础训练，常安排时间为周六 9:00–15:00。教学上重视体能测试与评估，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-44-case",
+      "coach_id": "coach-44",
+      "title": "韦念初训练案例（虚构）",
+      "source": "demo://coaches/coach-44/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的搏击教学案例记录：学员先学习基础动作，再由韦念初根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，韦念初陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-45-teaching",
+      "coach_id": "coach-45",
+      "title": "文景衍教学资料（虚构）",
+      "source": "demo://coaches/coach-45/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n文景衍面向瑜伽目标，在龙岗区以线下方式提供循序渐进的基础训练，常安排时间为周二、周四、周六 18:00–21:00。教学上重视动作纠正，先讲解再示范，并按训练反馈调整强度。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-45-case",
+      "coach_id": "coach-45",
+      "title": "文景衍训练案例（虚构）",
+      "source": "demo://coaches/coach-45/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的瑜伽教学案例记录：学员先学习基础动作，再由文景衍根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-46-teaching",
+      "coach_id": "coach-46",
+      "title": "吴栖梧教学资料（虚构）",
+      "source": "demo://coaches/coach-46/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n吴栖梧面向游泳体能目标，在福田区以线下、线上方式提供循序渐进的基础训练，常安排时间为周三、周五 20:00–22:00。教学上重视女性专属，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-47-teaching",
+      "coach_id": "coach-47",
+      "title": "伍清泽教学资料（虚构）",
+      "source": "demo://coaches/coach-47/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n伍清泽面向柔韧与体态调整目标，在盐田区以线上方式提供循序渐进的基础训练，常安排时间为工作日 9:00–17:00。教学上重视损伤后体能恢复，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-47-case",
+      "coach_id": "coach-47",
+      "title": "伍清泽训练案例（虚构）",
+      "source": "demo://coaches/coach-47/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的柔韧与体态调整教学案例记录：学员先学习基础动作，再由伍清泽根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-49-teaching",
+      "coach_id": "coach-49",
+      "title": "夏木西教学资料（虚构）",
+      "source": "demo://coaches/coach-49/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n夏木西面向减脂目标，在南山区以线下方式提供循序渐进的基础训练，常安排时间为工作日 18:00–22:00。教学上重视周期化训练，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-49-case",
+      "coach_id": "coach-49",
+      "title": "夏木西训练案例（虚构）",
+      "source": "demo://coaches/coach-49/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再由夏木西根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-50-teaching",
+      "coach_id": "coach-50",
+      "title": "向知遥教学资料（虚构）",
+      "source": "demo://coaches/coach-50/teaching",
+      "document_type": "teaching",
+      "version": "2",
+      "content": "# 教学方式\n\n向知遥面向增肌目标，在龙华区以线下、线上方式提供循序渐进的基础训练，常安排时间为工作日 11:00–14:00。教学上重视久坐改善，先讲解再示范，并按训练反馈调整强度。对新手耐心，习惯逐步解释动作，允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-50-case",
+      "coach_id": "coach-50",
+      "title": "向知遥训练案例（虚构）",
+      "source": "demo://coaches/coach-50/case",
+      "document_type": "case",
+      "version": "2",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再由向知遥根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-fat-loss-course",
+      "coach_id": null,
+      "title": "平台减脂基础课程（演示）",
+      "source": "demo://platform/fat-loss-course",
+      "document_type": "platform",
+      "version": "2",
+      "content": "# 减脂课程安排\n\n平台演示减脂课程按四周安排：第一周了解基础动作与训练记录；第二周加入全身力量训练；第三周根据反馈增加适量有氧；第四周复盘出勤与动作表现。每周建议两次私教训练。\n\n# 个体调整\n\n课程安排是演示模板，训练频次和强度需根据个人基础与恢复情况调整，不承诺减重幅度。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-overload",
+      "coach_id": null,
+      "title": "渐进超负荷学习笔记（演示）",
+      "source": "demo://platform/overload",
+      "document_type": "platform",
+      "version": "2",
+      "content": "# 渐进超负荷\n\n渐进超负荷是随身体适应逐渐增加训练刺激。可通过负重、重复次数、组数或动作控制调整。一次优先改变一个变量。\n\n# 恢复与记录\n\n先记录完成质量和疲劳感，再决定下一次变化。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-beginner",
+      "coach_id": null,
+      "title": "新手训练说明（演示）",
+      "source": "demo://platform/beginner",
+      "document_type": "platform",
+      "version": "2",
+      "content": "# 新手入门\n\n新手可先从每周两次全身力量训练开始，动作包括推、拉、下肢与躯干稳定。先掌握动作质量再增加负荷，训练之间留出恢复时间。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-safety",
+      "coach_id": null,
+      "title": "运动不适处理原则（演示）",
+      "source": "demo://platform/safety",
+      "document_type": "platform",
+      "version": "2",
+      "content": "# 运动不适\n\n训练中出现明显疼痛时应停止引发疼痛的动作。疼痛持续或反复时先寻求医疗评估。教练训练经验与医疗诊断、康复治疗资质是不同事实。",
+      "is_demo": true
+    }
+  ]
+}

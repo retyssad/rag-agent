@@ -1,0 +1,8 @@
+{
+  "mode": "live",
+  "pause": true,
+  "durable_reopen": true,
+  "duplicate_resume": false,
+  "resumed_status": "completed",
+  "candidates": 2
+}

@@ -1,0 +1,1019 @@
+{
+  "coaches": [
+    {
+      "id": "coach-01",
+      "name": "林知夏",
+      "price": 280,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 280
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "林知夏是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02",
+      "name": "陈远舟",
+      "price": 300,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "增肌",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌基础私教课",
+          "duration_minutes": 60,
+          "price": 300
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "陈远舟是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03",
+      "name": "许安宁",
+      "price": 240,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 240
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "许安宁是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04",
+      "name": "周亦辰",
+      "price": 380,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "力量",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "力量基础私教课",
+          "duration_minutes": 60,
+          "price": 380
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "周亦辰是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-05",
+      "name": "苏沐晴",
+      "price": 320,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 320
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "苏沐晴是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06",
+      "name": "陆景行",
+      "price": 260,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体能",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体能基础私教课",
+          "duration_minutes": 60,
+          "price": 260
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "陆景行是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-07",
+      "name": "沈初禾",
+      "price": 420,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "体态",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体态基础私教课",
+          "duration_minutes": 60,
+          "price": 420
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "沈初禾是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08",
+      "name": "顾明川",
+      "price": 200,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 200
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "顾明川是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09",
+      "name": "唐予安",
+      "price": 290,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 290
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "唐予安是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10",
+      "name": "叶子清",
+      "price": 350,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "增肌",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "增肌基础私教课",
+          "duration_minutes": 60,
+          "price": 350
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "叶子清是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11",
+      "name": "程北望",
+      "price": 230,
+      "districts": [
+        "宝安区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 230
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "程北望是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12",
+      "name": "夏星野",
+      "price": 450,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "力量",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "力量基础私教课",
+          "duration_minutes": 60,
+          "price": 450
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "夏星野是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-13",
+      "name": "温书言",
+      "price": 270,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "减脂",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 270
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "温书言是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14",
+      "name": "江若溪",
+      "price": 310,
+      "districts": [
+        "南山区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体能",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体能基础私教课",
+          "duration_minutes": 60,
+          "price": 310
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "江若溪是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15",
+      "name": "宋时雨",
+      "price": 180,
+      "districts": [
+        "罗湖区"
+      ],
+      "delivery_modes": [
+        "线下"
+      ],
+      "specialties": [
+        "体态",
+        "新手入门"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "体态基础私教课",
+          "duration_minutes": 60,
+          "price": 180
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 9,
+          "end": 17
+        }
+      ],
+      "bio": "宋时雨是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-16",
+      "name": "贺南风",
+      "price": 360,
+      "districts": [
+        "福田区"
+      ],
+      "delivery_modes": [
+        "线下",
+        "线上"
+      ],
+      "specialties": [
+        "减脂",
+        "力量基础"
+      ],
+      "qualifications": [
+        {
+          "title": "演示训练指导证书（虚构）",
+          "verified": false,
+          "scope": "非医疗资质"
+        }
+      ],
+      "courses": [
+        {
+          "name": "减脂基础私教课",
+          "duration_minutes": 60,
+          "price": 360
+        }
+      ],
+      "availability": [
+        {
+          "days": [
+            0,
+            2,
+            4
+          ],
+          "start": 18,
+          "end": 22
+        }
+      ],
+      "bio": "贺南风是一位用于演示选择流程的虚构教练。",
+      "is_demo": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "coach-01-teaching",
+      "coach_id": "coach-01",
+      "title": "林知夏教学资料（虚构）",
+      "source": "demo://coaches/coach-01/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n林知夏面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-01-case",
+      "coach_id": "coach-01",
+      "title": "林知夏训练案例（虚构）",
+      "source": "demo://coaches/coach-01/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，林知夏陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02-teaching",
+      "coach_id": "coach-02",
+      "title": "陈远舟教学资料（虚构）",
+      "source": "demo://coaches/coach-02/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n陈远舟面向增肌目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-02-case",
+      "coach_id": "coach-02",
+      "title": "陈远舟训练案例（虚构）",
+      "source": "demo://coaches/coach-02/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03-teaching",
+      "coach_id": "coach-03",
+      "title": "许安宁教学资料（虚构）",
+      "source": "demo://coaches/coach-03/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n许安宁面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-03-case",
+      "coach_id": "coach-03",
+      "title": "许安宁训练案例（虚构）",
+      "source": "demo://coaches/coach-03/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04-teaching",
+      "coach_id": "coach-04",
+      "title": "周亦辰教学资料（虚构）",
+      "source": "demo://coaches/coach-04/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n周亦辰面向力量目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-04-case",
+      "coach_id": "coach-04",
+      "title": "周亦辰训练案例（虚构）",
+      "source": "demo://coaches/coach-04/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的力量教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-05-teaching",
+      "coach_id": "coach-05",
+      "title": "苏沐晴教学资料（虚构）",
+      "source": "demo://coaches/coach-05/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n苏沐晴面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-05-case",
+      "coach_id": "coach-05",
+      "title": "苏沐晴训练案例（虚构）",
+      "source": "demo://coaches/coach-05/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，苏沐晴陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06-teaching",
+      "coach_id": "coach-06",
+      "title": "陆景行教学资料（虚构）",
+      "source": "demo://coaches/coach-06/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n陆景行面向体能目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-06-case",
+      "coach_id": "coach-06",
+      "title": "陆景行训练案例（虚构）",
+      "source": "demo://coaches/coach-06/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的体能教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-07-teaching",
+      "coach_id": "coach-07",
+      "title": "沈初禾教学资料（虚构）",
+      "source": "demo://coaches/coach-07/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n沈初禾面向体态目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-07-case",
+      "coach_id": "coach-07",
+      "title": "沈初禾训练案例（虚构）",
+      "source": "demo://coaches/coach-07/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的体态教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，沈初禾陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08-teaching",
+      "coach_id": "coach-08",
+      "title": "顾明川教学资料（虚构）",
+      "source": "demo://coaches/coach-08/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n顾明川面向减脂目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-08-case",
+      "coach_id": "coach-08",
+      "title": "顾明川训练案例（虚构）",
+      "source": "demo://coaches/coach-08/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09-teaching",
+      "coach_id": "coach-09",
+      "title": "唐予安教学资料（虚构）",
+      "source": "demo://coaches/coach-09/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n唐予安面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-09-case",
+      "coach_id": "coach-09",
+      "title": "唐予安训练案例（虚构）",
+      "source": "demo://coaches/coach-09/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10-teaching",
+      "coach_id": "coach-10",
+      "title": "叶子清教学资料（虚构）",
+      "source": "demo://coaches/coach-10/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n叶子清面向增肌目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-10-case",
+      "coach_id": "coach-10",
+      "title": "叶子清训练案例（虚构）",
+      "source": "demo://coaches/coach-10/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的增肌教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11-teaching",
+      "coach_id": "coach-11",
+      "title": "程北望教学资料（虚构）",
+      "source": "demo://coaches/coach-11/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n程北望面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-11-case",
+      "coach_id": "coach-11",
+      "title": "程北望训练案例（虚构）",
+      "source": "demo://coaches/coach-11/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12-teaching",
+      "coach_id": "coach-12",
+      "title": "夏星野教学资料（虚构）",
+      "source": "demo://coaches/coach-12/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n夏星野面向力量目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-12-case",
+      "coach_id": "coach-12",
+      "title": "夏星野训练案例（虚构）",
+      "source": "demo://coaches/coach-12/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的力量教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-13-teaching",
+      "coach_id": "coach-13",
+      "title": "温书言教学资料（虚构）",
+      "source": "demo://coaches/coach-13/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n温书言面向减脂目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-13-case",
+      "coach_id": "coach-13",
+      "title": "温书言训练案例（虚构）",
+      "source": "demo://coaches/coach-13/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的减脂教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。在另一个虚构案例中，温书言陪同一位自述膝盖不适且已获得医生运动许可的学员，使用低冲击活动、控制动作幅度，并记录不适反馈。这是训练调整记录，不是医疗诊断或康复资质。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14-teaching",
+      "coach_id": "coach-14",
+      "title": "江若溪教学资料（虚构）",
+      "source": "demo://coaches/coach-14/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n江若溪面向体能目标提供循序渐进的基础训练。偏好用训练记录跟踪负重与次数，强调每周复盘。对沟通耐心程度，现有资料没有说明。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-14-case",
+      "coach_id": "coach-14",
+      "title": "江若溪训练案例（虚构）",
+      "source": "demo://coaches/coach-14/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的体能教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15-teaching",
+      "coach_id": "coach-15",
+      "title": "宋时雨教学资料（虚构）",
+      "source": "demo://coaches/coach-15/teaching",
+      "document_type": "teaching",
+      "version": "1",
+      "content": "# 教学方式\n\n宋时雨面向体态目标提供循序渐进的基础训练。对新手耐心，习惯逐步解释动作，先讲解再示范，并允许学员重复提问。",
+      "is_demo": true
+    },
+    {
+      "id": "coach-15-case",
+      "coach_id": "coach-15",
+      "title": "宋时雨训练案例（虚构）",
+      "source": "demo://coaches/coach-15/case",
+      "document_type": "case",
+      "version": "1",
+      "content": "# 训练案例\n\n一份虚构的体态教学案例记录：学员先学习基础动作，再根据训练反馈逐步调整组数与强度。案例只用于演示资料引用，不代表真实效果，也不能推算成功率。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-fat-loss-course",
+      "coach_id": null,
+      "title": "平台减脂基础课程（演示）",
+      "source": "demo://platform/fat-loss-course",
+      "document_type": "platform",
+      "version": "1",
+      "content": "# 减脂课程安排\n\n平台演示减脂课程按四周安排：第一周了解基础动作与训练记录；第二周加入全身力量训练；第三周根据反馈增加适量有氧；第四周复盘出勤与动作表现。每周建议两次私教训练，其他活动量由教练与学员共同确认。\n\n# 个体调整\n\n课程安排是演示模板，训练频次和强度需根据个人基础与恢复情况调整，不承诺减重幅度。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-overload",
+      "coach_id": null,
+      "title": "渐进超负荷学习笔记（演示）",
+      "source": "demo://platform/overload",
+      "document_type": "platform",
+      "version": "1",
+      "content": "# 渐进超负荷\n\n渐进超负荷是随身体适应逐渐增加训练刺激。可通过负重、重复次数、组数或动作控制调整。一次优先改变一个变量，避免每次都同时增加负重和训练量。\n\n# 恢复与记录\n\n先记录完成质量和疲劳感，再决定下一次变化。训练进步不是每次都必须加重量。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-beginner",
+      "coach_id": null,
+      "title": "新手训练说明（演示）",
+      "source": "demo://platform/beginner",
+      "document_type": "platform",
+      "version": "1",
+      "content": "# 新手入门\n\n新手可先从每周两次全身力量训练开始，动作包括推、拉、下肢与躯干稳定。先掌握动作质量再增加负荷，训练之间留出恢复时间。",
+      "is_demo": true
+    },
+    {
+      "id": "platform-safety",
+      "coach_id": null,
+      "title": "运动不适处理原则（演示）",
+      "source": "demo://platform/safety",
+      "document_type": "platform",
+      "version": "1",
+      "content": "# 运动不适\n\n训练中出现明显疼痛时应停止引发疼痛的动作。疼痛持续或反复时先寻求医疗评估，不根据网络问答作诊断。教练训练经验与医疗诊断、康复治疗资质是不同事实。",
+      "is_demo": true
+    }
+  ]
+}
